@@ -19,6 +19,7 @@ The website provides a clean and professional user interface with modern design 
 
 - HTML5
 - CSS3
+- javascript
 
 ## ✨ Features
 
